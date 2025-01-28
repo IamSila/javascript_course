@@ -6,4 +6,4 @@ while(counter <= 10){
 }
 
 // the sum of the first 10 numbers
-console.log(sum)
+console.log(sum);
